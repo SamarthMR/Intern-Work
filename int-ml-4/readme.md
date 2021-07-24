@@ -21,6 +21,5 @@
 | Name | Work Done |
 | ------ | ------ |
 | Nadeem | Content editing, markdown file and create pull request  |
-| Vayuputra | Content development and creation |
-| Sherin Shibu | Video recording and editing |
+| Vayuputra | Content development and video explanation |
 
