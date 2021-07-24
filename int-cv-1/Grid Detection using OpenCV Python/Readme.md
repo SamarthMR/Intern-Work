@@ -2,7 +2,7 @@
 
 ## **Grid Detection using OpenCV Python**
 
-_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Image%20Segmentation%20with%20Watershed%20Algorithm/Image%20Segmentation%20with%20Watershed%20Algorithm.md) covers the Grid Detection technique using OpenCV Python._
+_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Grid%20Detection%20using%20OpenCV%20Python/Grid%20Detection.md) covers the Grid Detection technique using OpenCV Python._
 
 ### **Contents**
 
