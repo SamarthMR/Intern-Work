@@ -47,10 +47,10 @@ plt.show()
 ```
 
 
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_8_0.png"
+</p>
     
-![png](output_8_0.png)
-    
-
 
 ### Downsample the image by converting it to Grayscale
 
@@ -65,7 +65,9 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_10_0.png"
+</p>
     
 
 
@@ -81,8 +83,9 @@ plt.show()
 ```
 
 
-    
-![png](output_12_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_12_0.png"
+</p>
     
 
 
@@ -103,10 +106,10 @@ plt.imshow(thresh)
 plt.show()
 ```
 
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_16_0.png"
+</p>    
 
-    
-![png](output_16_0.png)
-    
 
 
 ### Finding biggest grid that will match the Sudoku puzzle
@@ -145,8 +148,9 @@ plt.show()
 ```
 
 
-    
-![png](output_21_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_21_0.png"
+</p>
     
 
 
@@ -165,8 +169,9 @@ plt.show()
 ```
 
 
-    
-![png](output_24_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_24_0.png"
+</p>
     
 
 
@@ -181,9 +186,9 @@ plt.show()
 ```
 
 
-    
-![png](output_26_0.png)
-    
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_26_0.png"
+</p>
 
 
 
@@ -195,8 +200,9 @@ plt.show()
 ```
 
 
-    
-![png](output_27_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_27_0.png"
+</p>
     
 
 
@@ -223,7 +229,9 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_30_0.png"
+</p>
     
 
 
@@ -246,7 +254,9 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_35_0.png"
+</p>
     
 
 
@@ -340,8 +350,9 @@ plt.show()
 ```
 
 
-    
-![png](output_39_0.png)
+<p align="center">
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/GridDetection-images/output_39_0.png"
+</p>
     
 
 
