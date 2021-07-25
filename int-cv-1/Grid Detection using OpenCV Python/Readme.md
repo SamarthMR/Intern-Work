@@ -13,7 +13,7 @@ _The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Grid%20D
 #### **Team members name and work distribution**
 | Name | Work Done |
 | ------ | ------ |
-| Samarth M R | Content, Markdown file, Code execution (.ipynb file - Jupyter Notebook) |
-| M Rakesh | Content, Video Recording |
-| Sri Varthan | Content, Video Editing |
+| Samarth M R | Content, Markdown file, Code execution (.ipynb file - Jupyter Notebook), Video Recording + Video Editing |
+| M Rakesh | Content, Video Recording + Video editing |
+| Sri Varthan | Content |
 
