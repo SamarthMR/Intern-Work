@@ -38,6 +38,6 @@
     - Summary with Program example
 
 - Work flow
-    - [Manvitha Ramineni](https://github.com/manvitha3579): Content writing, Video recording
-    - [Tanuja Dasari](https://github.com/tanujadasari): Content writing, Video editing
-    - [Durga Sai Nallani](https://github.com/DurgaSai-16): Content Writing, Readme.md,video editing
+    - [Manvitha Ramineni](https://github.com/manvitha3579): Content writing, Video recording,Video Editing
+    - [Tanuja Dasari](https://github.com/tanujadasari): Content writing, Video editing, Video Recording
+    - [Durga Sai Nallani](https://github.com/DurgaSai-16): Content Writing,video editing, Video Recording
