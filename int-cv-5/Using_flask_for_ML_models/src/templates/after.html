@@ -1,0 +1,24 @@
+<html>
+    <body bgcolor=#a3cfb4>
+        <center>
+            <h1>PREDICTION :</h1>
+            
+                {% if data == 0 %}
+                <h2>Iris-setosa</h2>
+                <img src = "static\setosa.jpg">
+                
+                {% elif data == 1 %}
+                <h2>Iris Versicolour</h2>
+                <img src = "static\verci.jpg">
+                
+                {% elif data == 2 %}
+                <h2>Iris Virginica</h2>
+                <img src = "static\virginica.jpg">
+                
+                {% endif %}
+
+                <br><br>
+            <a href='/' style="text-decoration: none;">Go BacK to Main Page</a>
+        </center>
+    </body>
+</html>

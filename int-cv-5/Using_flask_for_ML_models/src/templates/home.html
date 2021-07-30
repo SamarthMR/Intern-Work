@@ -1,0 +1,18 @@
+<html>
+    <body bgcolor=#d4a3ae>
+        <center>
+            <div style="padding-top: 160px; font-family:Georgia, 'Times New Roman', Times, serif">
+                <h1 style="font-size: 30px;"> IRIS  FLOWER  DETECTION </h1><br>
+                <form method="POST", action="{{url_for('home')}}">
+                    <b>
+                        Sepal Length :  <input type="text", name='a', placeholder="Sepal Length in cm" style="border: none;padding: 5px;"> <br><br>
+                        Sepal Width :  <input type="text", name='b', placeholder="Sepal Width in cm" style="border: none;padding: 5px;"> <br><br>
+                        Petal Length :  <input type="text", name='c', placeholder="Petal Length in cm" style="border: none;padding: 5px;"> <br><br>
+                        Petal Width : <input type="text", name='d', placeholder="Petal Width in cm" style="border: none;padding: 5px;"> <br><br>
+                    </b>
+                    <input type="submit" value='Predict' style="border-radius: 10px;">
+                </form>
+            </div>
+        </center>
+    </body>
+</html>
