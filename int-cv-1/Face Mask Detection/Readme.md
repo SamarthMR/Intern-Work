@@ -2,7 +2,7 @@
 
 ## **Object Detection using Haarcascades and deploy using django to heroku**
 
-_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Grid%20Detection%20using%20OpenCV%20Python/Grid%20Detection.md) covers the Grid Detection technique using OpenCV Python._
+_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Face%20Mask%20Detection/Object%20Detection%20using%20Haarcascades%20and%20deploy%20using%20django%20to%20heroku.md) covers the Grid Detection technique using OpenCV Python._
 
 ### **Contents**
 
