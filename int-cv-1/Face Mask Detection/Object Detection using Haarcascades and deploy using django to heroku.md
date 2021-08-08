@@ -40,11 +40,7 @@ Objects are classified on very simple features to encode ad-hoc domain knowledge
 Here, we try the different Haar features and see which of those produce the largest value for the difference between the sums of pixels between the black and white rectangles. We have an example below where the optimal Haar features have been found. The eyes are usually a bit darker whereas the area below is likely lighter, and thus a horizontal rectangle with black up top and white below is suitable. Secondly, the bridge of the nose is often lighter than the eyes and as such a Haar feature with a vertical white box in the middle is the way to go.
 
 <p align="center">
-   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/Object%20detection%20Images/1_64MTUF8nuEvSgBvYmOfhKA.png"
-</p>
-
-<p>
-   <em>_**Optimal Haar features for an image**_</em>
+   <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/Object%20detection%20Images/1_64MTUF8nuEvSgBvYmOfhKA.png" alt="Optimal Haar features for an image"
 </p>
 
 The name Haar features sounds a bit odd, but it actually originates from the intuitive similarity with Haar wavelets.
