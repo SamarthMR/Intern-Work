@@ -2,7 +2,7 @@
 
 ## **Object Detection using Haarcascades**
 
-_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Face%20Mask%20Detection/Object%20Detection%20using%20Haarcascades%20and%20deploy%20using%20django%20to%20heroku.md) covers the Object Detection using Haar Cascades in OpenCV Python._
+_The [file](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Object%20Detection%20using%20Haar%20Cascades/Object%20Detection%20using%20Haar%20Cascades.md) covers the Object Detection using Haar Cascades in OpenCV Python._
 
 ### **Contents**
 
