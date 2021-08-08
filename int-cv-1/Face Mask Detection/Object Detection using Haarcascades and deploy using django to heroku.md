@@ -42,7 +42,10 @@ Here, we try the different Haar features and see which of those produce the larg
 <p align="center">
    <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/Object%20detection%20Images/1_64MTUF8nuEvSgBvYmOfhKA.png"
 </p>
-_**<center>Optimal Haar features for an image</center>**_
+
+<p>
+   <em>_**Optimal Haar features for an image**_</em>
+</p>
 
 The name Haar features sounds a bit odd, but it actually originates from the intuitive similarity with Haar wavelets.
 
