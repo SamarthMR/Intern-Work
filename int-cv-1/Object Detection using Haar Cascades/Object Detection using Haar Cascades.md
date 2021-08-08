@@ -74,3 +74,8 @@ The final number of features can be quite large despite the measures taken, so t
 3. It is an important part of the computer vision and image processing literature.
 4. It is still used with OpenCV.
 5. Very useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors.
+
+## **Implementation**
+
+We have taken Face mask Detection and Social Distancing as an example for object detection using the Haar Cascade classifiers and implemented them using OpenCV in Python.  
+The Notebook file where we have done the implementation can be found [here](https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/Object%20Detection%20using%20Haar%20Cascades/Face_Mask_Detection_and_Social_Distancing.ipynb).
