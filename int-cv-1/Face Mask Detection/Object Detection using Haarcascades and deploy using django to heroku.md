@@ -41,8 +41,11 @@ Here, we try the different Haar features and see which of those produce the larg
 
 <p align="center">
    <img src="https://github.com/SamarthMR/Intern-Work/blob/main/int-cv-1/images/Object%20detection%20Images/1_64MTUF8nuEvSgBvYmOfhKA.png"
+
    <br />
-   <b>Optimal Haar features for an image</b>
+   <b> Optimal Haar features for an image</b>
+   <br />
+
    <br />
 </p>
 
