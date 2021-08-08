@@ -44,8 +44,6 @@ Here, we try the different Haar features and see which of those produce the larg
    <br />
    <b>Optimal Haar features for an image</b>
    <br />
-   
-   <br />
 </p>
 
 The name Haar features sounds a bit odd, but it actually originates from the intuitive similarity with Haar wavelets.
