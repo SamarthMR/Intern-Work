@@ -1,32 +1,32 @@
 ![files](https://user-images.githubusercontent.com/85128689/125448683-4d8d9845-d20a-4898-b2aa-4a84bf24f241.jpeg)
 # File handling with Python
 -----------------------------------------------
-**File**:  
+## File:  
 - File is a named location on a secondary storage device where data are permanently stored for later access.  
 
-**File Handling:**
+## File Handling:
 - The process of creating a file, storing the data in it, retrieving data from it and appending further information is said to be File Handling.
 
-**Does python support file handling:**  
+## Does python support file handling:
 - Python supports file handling like many other programming languages.
 - There are many programming languages that supports file handling, in some languages this topic is a bit complicated, but in python file handling is very easy.
 
-**Use of file handling in Python:**
+## Use of file handling in Python:
 - File handling provies various modes(read mode, write mode etc) to operate a file.
 - We can create a new file using python code, open existing files, write in files ,read data from files and many more such options.
-- There are mainly two types of data files
-    - Text file
-    - Binary file
-- **Text file**: 
-    - A text file can be understood as a sequence of characters consisting  of  alphabets,  numbers  and  other  special symbols
-    - File extensions like .txt, .py, .csv, etc. are few examples of text files.
-    - Each  line  of  a  text  file  is  stored  as  a  sequence of  ASCII  equivalent  of  the  characters.
-    - This  is terminated by a special character called the End of Line (EOL).
-- **Binary file**:
-    - Binary  file  consists  of  data  stored  as  a  stream of bytes.
-    - Binary files are mainly used to store data beyond text such as images, executables, etc.  
+## There are mainly two types of data files
+- Text file
+- Binary file
+## Text file
+- A text file can be understood as a sequence of characters consisting  of  alphabets,  numbers  and  other  special symbols
+- File extensions like .txt, .py, .csv, etc. are few examples of text files.
+- Each  line  of  a  text  file  is  stored  as  a  sequence of  ASCII  equivalent  of  the  characters.
+- This  is terminated by a special character called the End of Line (EOL).
+## Binary file
+- Binary  file  consists  of  data  stored  as  a  stream of bytes.
+- Binary files are mainly used to store data beyond text such as images, executables, etc.  
 
-**Opening and Closing Files:**  
+## Opening and Closing Files 
 Python consists of various built in functions and methods to manipulate files. These functions and methods bascically work on a file object
 - **The Open() Function:**
     - Python built in open() function is used to open the file for reading or writing to it.
@@ -46,7 +46,7 @@ Python consists of various built in functions and methods to manipulate files. T
     |-|
     |fileobj.close()|
     
-- **Access Modes in Python:**
+## Access Modes in Python
   
 |Modes|Purpose|
 |-|-|
@@ -66,7 +66,7 @@ Python consists of various built in functions and methods to manipulate files. T
 If no mode is specified then 'r' is considered as default mode.
 
 
-- **The File Object Attributes:**  
+## The File Object Attributes
 
 |Attribute|Information Obtained|
 |-|-|
@@ -81,7 +81,7 @@ If no mode is specified then 'r' is considered as default mode.
 |writelines(sequence)|This writes a sequence of strings into the file|
 
 
-**Examples:**
+## Examples
 
 
 ```python
